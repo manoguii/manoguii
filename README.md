@@ -8,7 +8,6 @@ Para todos os dias, fé de Abraão
 Paciência de Jó 
 Sabedoria de Salomão
 ```
-<br><br>
 
 ## :pushpin:
 
