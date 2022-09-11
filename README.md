@@ -9,7 +9,7 @@ Paciência de Jó
 Sabedoria de Salomão
 ```
 
-## :pushpin:
+## 
 
 <p align="left" style="background:yellow">
 
