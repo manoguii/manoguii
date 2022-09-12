@@ -17,7 +17,7 @@ Sabedoria de Salomão
   <img align="center" src="https://img.shields.io/badge/-manogui_zs-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 
-<a href="https://www.instagram.com/manogui.zs/?theme=dark" target="_blank">
+<a href="https://www.instagram.com/manogui.ts/?theme=dark" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-manogui.zs-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 
