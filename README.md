@@ -8,21 +8,3 @@ Para todos os dias, fé de Abraão
 Paciência de Jó 
 Sabedoria de Salomão
 ```
-
-## 
-
-<p align="left" style="background:yellow">
-
-<a href="https://twitter.com/manogui_zs" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-manogui_zs-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-
-<a href="https://www.instagram.com/manogui.ts/?theme=dark" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-manogui.zs-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-
-<a href="https://www.linkedin.com/in/guilherme-david-15ab6124b/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Guilherme-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-
-</p>
