@@ -21,4 +21,6 @@
 <a href="https://github.com/manoguii/ig-news">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manoguii&repo=ig-news&theme=react&hide_border=true" />
 </a>
+
+![Snake animation](https://github.com/manoguii/manoguii/blob/output/github-contribution-grid-snake.svg)
 </div>
